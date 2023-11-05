@@ -1,0 +1,19 @@
+h1.blue {
+    font-size: 25px;
+    color: blue;
+}
+
+h1.purple {
+    font-size: 25px;
+color: purple;
+}
+
+h1.red {
+    font-size: 25px;
+    color:red;
+}
+
+h1.newcolor {
+    font-size: 25px;
+    color: burlywood;
+}
